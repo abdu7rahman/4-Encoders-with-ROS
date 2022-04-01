@@ -1,4 +1,4 @@
-# 4-Encoders-with-ROS
+# Encoders-with-ROS
 
 ## Vcc-
 The Vcc pin powers the sensor, typically with +5V.
